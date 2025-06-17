@@ -1,4 +1,4 @@
-# Node.js MVC Generator
+# Express Generate CLI
 
 🚀 A powerful CLI tool to generate MVC (Model-View-Controller) structure for Node.js applications with Express.js.
 
@@ -16,12 +16,12 @@
 
 ### Global Installation (Recommended)
 ```bash
-npm install -g node-mvc-generator
+npm install -g express-generate-cli
 ```
 
 ### Local Installation
 ```bash
-npm install node-mvc-generator
+npm install express-generate-cli
 npx generate <resource-name>
 ```
 
@@ -155,8 +155,8 @@ module.exports = router;
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yourusername/node-mvc-generator.git
-cd node-mvc-generator
+git clone https://github.com/farahmahfouz/express-generate-cli.git
+cd express-generate-cli
 ```
 
 ### Link for local development
@@ -183,7 +183,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-**Your Name**
+**Farah Mahfouz**
 - GitHub: [@farahmahfouz](https://github.com/farahmahfouz)
 - Email: farahmahfouz11@gmail.com
 
@@ -191,4 +191,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you find this tool helpful, please consider giving it a ⭐ on GitHub!
 
-For issues and feature requests, please use the [GitHub Issues](https://github.com/yourusername/node-mvc-generator/issues) page.
+For issues and feature requests, please use the [GitHub Issues](https://github.com/farahmahfouz/express-generate-cli/issues) page.

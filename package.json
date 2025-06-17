@@ -5,8 +5,17 @@
   "bin": {
     "generate": "bin/generate.js"
   },
-  "keywords": ["cli", "express", "mvc", "generator"],
+  "keywords": [
+    "cli",
+    "express",
+    "mvc",
+    "generator"
+  ],
   "author": "Farah Mahfouz",
   "license": "MIT",
-  "description": "A CLI tool to generate MVC structure for Node.js applications"
+  "description": "A CLI tool to generate MVC structure (controllers, routes, models) for Express.js applications",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/farahmahfouz/express-generate-cli"
+  }
 }
