@@ -1,0 +1,12 @@
+{
+  "name": "express-generate-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "generate": "bin/generate.js"
+  },
+  "keywords": ["cli", "express", "mvc", "generator"],
+  "author": "Farah Mahfouz",
+  "license": "MIT",
+  "description": "A CLI tool to generate MVC structure for Node.js applications"
+}
