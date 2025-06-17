@@ -16,13 +16,13 @@
 
 ### Global Installation (Recommended)
 ```bash
-npm install -g express-generate-cli
+npm install -g express-gen-api
 ```
 
 ### Local Installation
 ```bash
-npm install express-generate-cli
-npx generate <resource-name>
+npm install express-gen-api
+npx generate <resource-name> || npx g <resource-name>
 ```
 
 ## Usage

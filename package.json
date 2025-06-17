@@ -1,9 +1,10 @@
 {
-  "name": "express-generate-cli",
+  "name": "express-gen-api",
   "version": "1.0.0",
   "main": "index.js",
   "bin": {
-    "generate": "bin/generate.js"
+    "generate": "bin/generate.js",
+    "g": "bin/generate.js"
   },
   "keywords": [
     "cli",
