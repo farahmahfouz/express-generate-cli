@@ -6,12 +6,12 @@
 
 ### Global Installation (Recommended)
 ```bash
-npm install -g express-gen-api
+npm install -g express-g-api
 ```
 
 ### Local Installation
 ```bash
-npm install express-gen-api
+npm install express-g-api
 npx generate <resource-name> || npx g <resource-name>
 ```
 

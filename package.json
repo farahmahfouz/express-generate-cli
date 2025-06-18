@@ -1,7 +1,6 @@
 {
-  "name": "express-gen-api",
-  "version": "1.0.3",
-  "main": "index.js",
+  "name": "express-g-api",
+  "version": "1.0.4",
   "bin": {
     "generate": "bin/generate.js",
     "g": "bin/generate.js"
@@ -17,6 +16,9 @@
   "description": "A CLI tool to generate MVC structure (controllers, routes, models) for Express.js applications",
   "repository": {
     "type": "git",
-    "url": "https://github.com/farahmahfouz/express-generate-cli"
+    "url": "git+https://github.com/farahmahfouz/express-generate-cli.git"
+  },
+  "engines": {
+    "node": ">=14"
   }
 }
