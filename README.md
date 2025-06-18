@@ -2,16 +2,6 @@
 
 🚀 A powerful CLI tool to generate MVC (Model-View-Controller) structure for Node.js applications with Express.js.
 
-## Features
-
-- ✅ Generate complete MVC structure (Controllers, Routes, Models)
-- 🎨 Beautiful colored output
-- 📝 Auto-generates Express.js boilerplate
-- 🔄 Auto-imports routes in app.js
-- 🛡️ Input validation and error handling
-- 📚 Well-documented code with JSDoc comments
-- 🚫 Prevents overwriting existing files
-
 ## Installation
 
 ### Global Installation (Recommended)
@@ -74,7 +64,7 @@ The tool automatically creates RESTful API endpoints:
 ## Example Output
 
 ```bash
-$ generate user
+$ npx generate user
 
 ✅ Created: controllers/userController.js
 ✅ Created: routes/userRoute.js  
@@ -162,11 +152,6 @@ cd express-generate-cli
 ### Link for local development
 ```bash
 npm link
-```
-
-### Test locally
-```bash
-generate test-resource
 ```
 
 ## Contributing
